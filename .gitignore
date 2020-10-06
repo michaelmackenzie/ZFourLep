@@ -1,0 +1,26 @@
+#directories to ignore by default
+test/rootfiles
+test/crab_projects
+
+#log/temporary files
+*.log
+*.tmp
+*~
+*#*
+
+#image files
+*.png
+*.jpg
+*.pdf
+*.svn
+*.gif
+
+#root files
+*.root
+*.tree
+*.hist
+
+#compiled files
+*.o
+*.pyc
+
